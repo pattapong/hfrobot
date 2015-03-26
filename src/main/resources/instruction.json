@@ -1,0 +1,83 @@
+{
+"instruction" : [
+		{
+		"tickerId": "0",
+		"symbol": "td",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "55",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "true"
+		},
+		{
+		"tickerId": "1",
+		"symbol": "efn",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "13",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "false"
+		},
+		{
+		"tickerId": "2",
+		"symbol": "ala",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "42",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "false"
+		},
+		{
+		"tickerId": "3",
+		"symbol": "bns",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "65",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "false"
+		},
+		{
+		"tickerId": "4",
+		"symbol": "ry",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "65",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "false"
+		},
+		{
+		"tickerId": "5",
+		"symbol": "bmo",
+		"exchange" : "TSE",
+		"currency" : "CAD",
+		"secType" : "STK",
+		"targetPosition" : "100",
+		"quantity" : "100",
+		"limitPrice" : "65",
+		"buyAlgorithmName" : "PriceDifference",
+		"sellAlgorithmName" : "PriceDifference",
+		"enabled" : "false"
+		}
+
+]
+}
